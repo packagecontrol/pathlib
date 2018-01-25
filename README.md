@@ -1,6 +1,4 @@
 # *pathlib* module for Package Control
-[![Build Status](https://travis-ci.org/packagecontrol/pathlib.png?branch=master)](https://travis-ci.org/packagecontrol/pathlib)
-
 
 This is the *[pathlib][]* module
 bundled for usage with [Package Control][],
