@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/packagecontrol/pathlib.png?branch=master)](https://travis-ci.org/packagecontrol/pathlib)
 
 
-This is the ba*[pathlib][]* module
+This is the *[pathlib][]* module
 bundled for usage with [Package Control][],
 a package manager
 for the [Sublime Text][] text editor.
@@ -74,7 +74,7 @@ The contents of the `all/` folder
 fall under *their own bundled licenses*.
 
 
-[pathlib]: http://docs.python-pathlib.org/en/latest/
+[pathlib]: https://docs.python.org/3/library/pathlib.html
 [Package Control]: http://packagecontrol.io/
 [Sublime Text]: http://sublimetext.com/
 [pypi]: https://pypi.python.org/pypi/pathlib
