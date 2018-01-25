@@ -53,7 +53,7 @@ See also:
 1. Download the latest tarball
    from [pypi][].
 2. Delete everything inside the `all/` folder.
-3. Copy the `pathlib/` folder
+3. Copy `pathlib.py`
    and everything related to copyright/licensing
    from the tarball
    to the `all/` folder.
